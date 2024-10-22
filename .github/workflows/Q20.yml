@@ -1,0 +1,10 @@
+env:
+  REPO_URL: https://github.com/cailuoli520/immortalwrt-mt798x
+  REPO_BRANCH: openwrt-21.02
+  DEVICE_NAME: JCQ Q20
+  FILES: q20/files
+  FEEDS_CONF: q20/feeds.conf
+  CONFIG_FILE: q20/seed.config
+  DIY_P1_SH: q20/part1.sh
+  DIY_P2_SH: q20/part2.sh
+  TZ: Asia/Shanghai
